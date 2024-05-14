@@ -1,4 +1,5 @@
-![image](https://github.com/dimashbalabek/flutter_topic78/assets/144226438/59e1433e-ec79-463d-9594-de53aac76119)
+![Uploading image.png…]()
+
 Register Form Demo
 
 This project is a demonstration of a registration form built using Flutter, a popular cross-platform framework for building mobile applications. The registration form provides a user-friendly interface for users to input their information, such as username, email, and password.
